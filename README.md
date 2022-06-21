@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sihamMS
 - 👀 I’m interested in data
-- 🌱 I’m currently learning how to code in databriks platform
+- 🌱 I’m currently learning how to code in databrciks platform
 
 
 <!---
