@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sihamMS
-- 👀 I’m interested in data
+- 👀 I’m interested in DATA
 - 🌱 I’m currently learning how to code in databrciks platform
 
 
